@@ -1,0 +1,41 @@
+.wrapper {
+	font-family: 'Noto Sans', sans-serif;
+	width: 100%;
+	padding: 5rem;
+	background: rgba(247, 201, 120, 0.15);
+	box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.searchBox {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	border: 2px solid #3f51b1;
+}
+
+.searchBox input {
+	width: 80%;
+	border: none;
+	padding: 1rem;
+	font-size: 1.5rem;
+}
+.searchBox button {
+	width: 10%;
+	background: #3f51b1;
+	color: #ffffff;
+	padding: 1rem;
+	font-size: 1.5rem;
+	border: 1px solid #ffffff;
+	cursor: pointer;
+}
+
+.content p {
+	padding: 2rem 0;
+	font-size: 1.5rem;
+}
+
+mark {
+	background: #3f51b1;
+	color: #ffffff;
+}
