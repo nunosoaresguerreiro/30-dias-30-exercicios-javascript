@@ -1,0 +1,1223 @@
+{
+	"portugal": {
+		"distritos": {
+			"Aveiro": {
+				"concelhos": {
+					"Águeda": {
+						"cidades": ["Águeda"],
+						"freguesias": [
+							"Águeda e Borralha",
+							"Barrô e Aguada de Baixo",
+							"Belazaima do Chão, Castanheira do Vouga e Agadão",
+							"Fermentelos",
+							"Macinhata do Vouga",
+							"Préstimo e Macieira de Alcoba",
+							"Recardães e Espinhel",
+							"Travassô e Óis da Ribeira",
+							"Trofa, Segadães e Lamas do Vouga",
+							"Valongo do Vouga"
+						]
+					},
+					"Albergaria-a-Velha": {
+						"cidades": ["Albergaria-a-Velha"],
+						"freguesias": ["Albergaria-a-Velha e Valmaior", "Angeja", "Branca", "Ribeira de Fráguas", "São João de Loure e Frossos"]
+					},
+					"Anadia": {
+						"cidades": ["Anadia"],
+						"freguesias": [
+							"Amoreira da Gândara, Paredes do Bairro e Ancas",
+							"Arcos e Mogofores",
+							"Avelãs de Caminho",
+							"Avelãs de Cima",
+							"Moita",
+							"Sangalhos",
+							"São Lourenço do Bairro",
+							"Tamengos, Aguim e Óis do Bairro",
+							"Vilarinho do Bairro"
+						]
+					},
+					"Aveiro": {
+						"cidades": ["Aveiro"],
+						"freguesias": ["Aradas", "Cacia", "Eixo e Eirol", "Esgueira", "Glória e Vera Cruz", "Oliveirinha", "Requeixo, Nossa Senhora de Fátima e Nariz", "Santa Joana", "São Bernardo"]
+					},
+					"Castelo de Paiva": {
+						"cidades": ["Castelo de Paiva"],
+						"freguesias": ["Fornos", "Raiva, Pedorido e Paraíso", "Real", "Santa Maria de Sardoura", "Sobrado e Bairros"]
+					},
+					"Espinho": {
+						"cidades": ["Espinho"],
+						"freguesias": ["Anta e Guetim", "Espinho", "Paramos", "Silvalde"]
+					},
+					"Estarreja": {
+						"cidades": ["Estarreja"],
+						"freguesias": ["Avanca", "Beduído e Veiros", "Canelas e Fermelã", "Pardilhó", "Salreu"]
+					},
+					"Ílhavo": {
+						"cidades": ["Ílhavo", "Gafanha da Nazaré"],
+						"freguesias": ["Gafanha da Encarnação", "Gafanha da Nazaré", "Gafanha do Carmo", "Ílhavo (São Salvador)"]
+					},
+					"Mealhada": {
+						"cidades": ["Mealhada"],
+						"freguesias": ["Barcouço", "Casal Comba", "Luso", "Mealhada, Ventosa do Bairro e Antes", "Pampilhosa"]
+					},
+					"Murtosa": {
+						"cidades": ["Murtosa"],
+						"freguesias": ["Bunheiro", "Monte", "Murtosa", "Torreira"]
+					},
+					"Oliveira de Azeméis": {
+						"cidades": ["Oliveira de Azeméis"],
+						"freguesias": [
+							"Carregosa",
+							"Cesar",
+							"Fajões",
+							"Loureiro",
+							"Macieira de Sarnes",
+							"Nogueira do Cravo e Pindelo",
+							"Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
+							"Palmaz",
+							"Pinheiro da Bemposta, Travanca e Palmaz",
+							"São Martinho da Gândara",
+							"Vila de Cucujães"
+						]
+					},
+					"Oliveira do Bairro": {
+						"cidades": ["Oliveira do Bairro"],
+						"freguesias": ["Bustos, Troviscal e Mamarrosa", "Oiã", "Oliveira do Bairro"]
+					},
+					"Ovar": {
+						"cidades": ["Ovar", "Esmoriz"],
+						"freguesias": ["Arada", "Cortegaça", "Esmoriz", "Maceda", "Ovar, São João, Arada e São Vicente de Pereira Jusã"]
+					},
+					"Santa Maria da Feira": {
+						"cidades": ["Santa Maria da Feira"],
+						"freguesias": [
+							"Argoncilhe",
+							"Arrifana",
+							"Canedo, Vale e Vila Maior",
+							"Escapães",
+							"Fiães",
+							"Fornos",
+							"Louredo",
+							"Milheirós de Poiares",
+							"Mozelos",
+							"Nogueira da Regedoura",
+							"Paços de Brandão",
+							"Rio Meão",
+							"Romariz",
+							"Santa Maria de Lamas",
+							"São João de Ver",
+							"São Miguel do Souto e Mosteirô",
+							"Travanca, Sanfins e Espargo",
+							"Vila Boa do Bispo"
+						]
+					},
+					"São João da Madeira": {
+						"cidades": ["São João da Madeira"],
+						"freguesias": ["São João da Madeira"]
+					},
+					"Sever do Vouga": {
+						"cidades": ["Sever do Vouga"],
+						"freguesias": ["Cedrim e Paradela", "Couto de Esteves", "Pessegueiro do Vouga", "Rocas do Vouga", "Sever do Vouga", "Talhadas"]
+					},
+					"Vagos": {
+						"cidades": ["Vagos"],
+						"freguesias": [
+							"Calvão",
+							"Covão do Lobo",
+							"Fonte de Angeão e Covão do Lobo",
+							"Gafanha da Boa Hora",
+							"Ouca",
+							"Ponte de Vagos e Santa Catarina",
+							"Santo André de Vagos",
+							"Vagos e Santo António"
+						]
+					},
+					"Vale de Cambra": {
+						"cidades": ["Vale de Cambra"],
+						"freguesias": ["Arões", "Cepelos", "Junqueira", "Macieira de Cambra", "Roge", "São Pedro de Castelões", "Vila Chã, Codal e Vila Cova de Perrinho"]
+					}
+				}
+			},
+
+			"Beja": {
+				"concelhos": {
+					"Aljustrel": {
+						"cidades": ["Aljustrel"],
+						"freguesias": ["Aljustrel e Rio de Moinhos", "Ervidel", "Messejana", "São João de Negrilhos"]
+					},
+					"Almodôvar": {
+						"cidades": ["Almodôvar"],
+						"freguesias": ["Aldeia dos Fernandes", "Almodôvar e Graça dos Padrões", "Rosário", "Santa Clara-a-Nova e Gomes Aires", "Santa Cruz"]
+					},
+					"Alvito": {
+						"cidades": ["Alvito"],
+						"freguesias": ["Alvito", "Vila Nova da Baronia"]
+					},
+					"Barrancos": {
+						"cidades": ["Barrancos"],
+						"freguesias": ["Barrancos"]
+					},
+					"Beja": {
+						"cidades": ["Beja"],
+						"freguesias": [
+							"Albernoa e Trindade",
+							"Baleizão",
+							"Beja (Salvador e Santa Maria da Feira)",
+							"Beja (Santiago Maior e São João Baptista)",
+							"Nossa Senhora das Neves",
+							"Santa Clara de Louredo",
+							"Santa Vitória e Mombeja",
+							"Trigaches e São Brissos"
+						]
+					},
+					"Castro Verde": {
+						"cidades": ["Castro Verde"],
+						"freguesias": ["Castro Verde e Casével", "Entradas", "Santa Bárbara de Padrões", "São Marcos da Ataboeira"]
+					},
+					"Cuba": {
+						"cidades": ["Cuba"],
+						"freguesias": ["Cuba", "Faro do Alentejo", "Vila Alva", "Vila Ruiva"]
+					},
+					"Ferreira do Alentejo": {
+						"cidades": ["Ferreira do Alentejo"],
+						"freguesias": ["Alfundão e Peroguarda", "Ferreira do Alentejo e Canhestros", "Figueira dos Cavaleiros", "Odivelas"]
+					},
+					"Mértola": {
+						"cidades": ["Mértola"],
+						"freguesias": [
+							"Alcaria Ruiva",
+							"Corte do Pinto",
+							"Espírito Santo",
+							"Mértola",
+							"Santana de Cambas",
+							"São João dos Caldeireiros",
+							"São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros"
+						]
+					},
+					"Moura": {
+						"cidades": ["Moura"],
+						"freguesias": ["Amareleja", "Moura (Santo Agostinho e São João Baptista) e Santo Amador", "Póvoa de São Miguel", "Safara e Santo Aleixo da Restauração"]
+					},
+					"Odemira": {
+						"cidades": ["Odemira"],
+						"freguesias": [
+							"Boavista dos Pinheiros",
+							"Longueira/Almograve",
+							"Luzianes-Gare",
+							"Relíquias",
+							"Sabóia",
+							"Santa Clara-a-Velha",
+							"São Luís",
+							"São Martinho das Amoreiras",
+							"São Salvador e Santa Maria",
+							"São Teotónio",
+							"Vale de Santiago",
+							"Vila Nova de Milfontes"
+						]
+					},
+					"Ourique": {
+						"cidades": ["Ourique"],
+						"freguesias": ["Garvão e Santa Luzia", "Ourique", "Panóias e Conceição", "Santana da Serra"]
+					},
+					"Serpa": {
+						"cidades": ["Serpa"],
+						"freguesias": ["Brinches", "Pias", "Salvador e Santa Maria", "Vila Nova de São Bento e Vale de Vargo"]
+					},
+					"Vidigueira": {
+						"cidades": ["Vidigueira"],
+						"freguesias": ["Pedrógão", "Selmes", "Vidigueira", "Vila de Frades"]
+					}
+				}
+			},
+
+			"Braga": {
+				"concelhos": {
+					"Amares": {
+						"cidades": ["Amares"],
+						"freguesias": [
+							"Amares e Figueiredo",
+							"Barreiros e Besteiros",
+							"Bico",
+							"Caires",
+							"Caldelas, Sequeiros e Paranhos",
+							"Carrazedo",
+							"Dornelas",
+							"Ferreiros, Prozelo e Besteiros",
+							"Goães",
+							"Lago",
+							"Rendufe",
+							"Torre e Portela",
+							"Vilela, Seramil e Paredes Secas"
+						]
+					},
+					"Barcelos": {
+						"cidades": ["Barcelos"],
+						"freguesias": [
+							"Abade de Neiva",
+							"Aborim",
+							"Adães",
+							"Airó",
+							"Aldreu",
+							"Alheira e Igreja Nova",
+							"Alvito (São Pedro e São Martinho) e Couto",
+							"Arcozelo",
+							"Areias de Vilar e Encourados",
+							"Balugães",
+							"Barcelinhos",
+							"Barqueiros",
+							"Cambeses",
+							"Carapeços",
+							"Carvalhal",
+							"Carvalhas",
+							"Chorente, Góios, Courel, Pedra Furada e Gueral",
+							"Cossourado",
+							"Cristelo",
+							"Durrães e Tregosa",
+							"Esmoriz",
+							"Fragoso",
+							"Gilmonde",
+							"Lama",
+							"Lijó",
+							"Macieira de Rates",
+							"Manhente",
+							"Martim",
+							"Moure",
+							"Negreiros e Chavão",
+							"Oliveira",
+							"Palme",
+							"Panque",
+							"Paradela",
+							"Pereira",
+							"Perelhal",
+							"Pousa",
+							"Remelhe",
+							"Roriz",
+							"Rio Covo (Santa Eugénia)",
+							"Sequeade e Bastuço (São João e Santo Estevão)",
+							"Silva",
+							"Tamel (São Veríssimo)",
+							"Tamel (Santa Leocádia) e Vilar do Monte",
+							"Ucha",
+							"Várzea",
+							"Vila Cova e Feitos",
+							"Vila Seca",
+							"Vilar de Figos e Alheira"
+						]
+					},
+					"Braga": {
+						"cidades": ["Braga"],
+						"freguesias": [
+							"Arentim e Cunha",
+							"Braga (Maximinos, Sé e Cividade)",
+							"Braga (São José de São Lázaro e São João do Souto)",
+							"Braga (São Vicente)",
+							"Braga (São Vítor)",
+							"Cabreiros e Passos (São Julião)",
+							"Celeirós, Aveleda e Vimieiro",
+							"Crespos e Pousada",
+							"Escudeiros e Penso (Santo Estêvão e São Vicente)",
+							"Espinho",
+							"Esporões",
+							"Figueiredo",
+							"Gualtar",
+							"Guisande e Oliveira (São Pedro)",
+							"Lamaçães",
+							"Lomar e Arcos",
+							"Merelim (São Paio), Panoias e Parada de Tibães",
+							"Merelim (São Pedro) e Frossos",
+							"Mire de Tibães",
+							"Morreira e Trandeiras",
+							"Nogueira, Fraião e Lamaçães",
+							"Nogueiró e Tenões",
+							"Padim da Graça",
+							"Palmeira",
+							"Pedralva",
+							"Priscos",
+							"Real, Dume e Semelhe",
+							"Ruilhe",
+							"Santa Lucrécia de Algeriz e Navarra",
+							"São Pedro d’Este",
+							"Sequeira",
+							"Tadim",
+							"Tebosa"
+						]
+					},
+					"Cabeceiras de Basto": {
+						"cidades": ["Cabeceiras de Basto"],
+						"freguesias": [
+							"Abadim",
+							"Basto",
+							"Bucos",
+							"Cabeceiras de Basto",
+							"Cavez",
+							"Faia",
+							"Gondiães e Vilar de Cunhas",
+							"Refojos de Basto, Outeiro e Painzela",
+							"Rio Douro e Outeiro",
+							"São Nicolau",
+							"Vila Nune"
+						]
+					},
+					"Celorico de Basto": {
+						"cidades": ["Celorico de Basto"],
+						"freguesias": [
+							"Arnoia",
+							"Borba de Montanha",
+							"Britelo, Gémeos e Ourilhe",
+							"Caçarilhe e Infesta",
+							"Canedo de Basto e Corgo",
+							"Carvalho e Basto (Santa Tecla)",
+							"Codeçoso",
+							"Fervença",
+							"Moreira do Castelo",
+							"Rego",
+							"Ribas",
+							"Vale de Bouro",
+							"Veade, Gagos e Molares"
+						]
+					},
+					"Esposende": {
+						"cidades": ["Esposende"],
+						"freguesias": ["Antas", "Apúlia e Fão", "Belinho e Mar", "Esposende, Marinhas e Gandra", "Fonte Boa e Rio Tinto", "Forjães", "Gemeses", "Palmeira de Faro e Curvos"]
+					},
+					"Fafe": {
+						"cidades": ["Fafe"],
+						"freguesias": [
+							"Arões (Santa Cristina)",
+							"Arões (São Romão)",
+							"Estorãos",
+							"Fafe",
+							"Fornelos",
+							"Golães",
+							"Medelo",
+							"Monte e Queimadela",
+							"Moreira do Rei e Várzea Cova",
+							"Passos",
+							"Quinchães",
+							"Regadas",
+							"Revelhe",
+							"Ribeiros",
+							"S. Gens",
+							"Silvares (São Martinho)",
+							"Travassós",
+							"Vinhós"
+						]
+					},
+					"Guimarães": {
+						"cidades": ["Guimarães"],
+						"freguesias": [
+							"Abação e Gémeos",
+							"Airão Santa Maria, Airão São João e Vermil",
+							"Aldão",
+							"Azurém",
+							"Barco",
+							"Briteiros Santo Estêvão e Donim",
+							"Caldelas",
+							"Creixomil",
+							"Fermentões",
+							"Gondar",
+							"Guardizela",
+							"Infantas",
+							"Longos",
+							"Mesão Frio",
+							"Moreira de Cónegos",
+							"Nespereira",
+							"Pevidém",
+							"Ponte",
+							"São Torcato",
+							"Selho São Jorge",
+							"Urgezes"
+						]
+					}
+				}
+			},
+
+			"Bragança": {
+				"concelhos": {
+					"Bragança": {
+						"cidades": ["Bragança"],
+						"freguesias": [
+							"Bragança",
+							"Avelã de Cima",
+							"Avelã de Baixo",
+							"Cabanelas",
+							"Castanheira",
+							"Couto de Aguiar",
+							"Ervedosa",
+							"Freixo de Espada à Cinta",
+							"Gondesende",
+							"Macedo de Cavaleiros",
+							"Parada de Todeia",
+							"Ponte de Lima",
+							"São João de Tarouca",
+							"São Vicente"
+						]
+					},
+					"Miranda do Douro": {
+						"cidades": ["Miranda do Douro"],
+						"freguesias": ["Miranda do Douro", "Aldeia Nova", "Barca d'Alva", "Castelo Branco", "Mogadouro"]
+					},
+					"Macedo de Cavaleiros": {
+						"cidades": ["Macedo de Cavaleiros"],
+						"freguesias": ["Macedo de Cavaleiros", "Aldeia Nova", "Valbom", "Vila de Oure", "Vilar de Póvoa"]
+					},
+					"Vinhais": {
+						"cidades": ["Vinhais"],
+						"freguesias": ["Vinhais", "Cova da Beira", "Vila Real", "Baldio", "São Pedro"]
+					},
+					"Freixo de Espada à Cinta": {
+						"cidades": ["Freixo de Espada à Cinta"],
+						"freguesias": ["Freixo de Espada à Cinta", "Aldeia Nova"]
+					},
+					"Torre de Moncorvo": {
+						"cidades": ["Torre de Moncorvo"],
+						"freguesias": ["Torre de Moncorvo", "Vilar de Perdizes", "São João da Pesqueira"]
+					}
+				}
+			},
+
+			"Castelo Branco": {
+				"concelhos": {
+					"Castelo Branco": {
+						"cidades": ["Castelo Branco"],
+						"freguesias": [
+							"Castelo Branco",
+							"Alcains",
+							"Aldeia de São Vicente",
+							"Cebolais de Cima",
+							"Cebolais de Baixo",
+							"Covilhã",
+							"Escalos de Cima",
+							"Escalos de Baixo",
+							"Lardosa",
+							"Maceira",
+							"Nisa"
+						]
+					},
+					"Fundão": {
+						"cidades": ["Fundão"],
+						"freguesias": ["Fundão", "Alpedrinha", "Barroca", "Cabeço do Pião", "Castelo Novo", "Enxames", "Figueira", "Ladoeiro", "Maceira", "Malpica do Tejo", "Meimão"]
+					},
+					"Idanha-a-Nova": {
+						"cidades": ["Idanha-a-Nova"],
+						"freguesias": ["Idanha-a-Nova", "Alcaria", "Amieira", "Beira Baixa", "Belver", "Castelejo", "Cova da Beira"]
+					},
+					"Oleiros": {
+						"cidades": ["Oleiros"],
+						"freguesias": ["Oleiros", "Amieira", "Alcaria", "Cova da Beira", "Oleiros"]
+					},
+					"Penamacor": {
+						"cidades": ["Penamacor"],
+						"freguesias": ["Penamacor", "Almaceda", "Castelejo", "Meimoa", "Sertã"]
+					},
+					"Sertã": {
+						"cidades": ["Sertã"],
+						"freguesias": ["Sertã", "Cova da Beira", "Bairro", "Alcains", "Castelo Branco"]
+					},
+					"Vila de Rei": {
+						"cidades": ["Vila de Rei"],
+						"freguesias": ["Vila de Rei", "Moinho", "Bairro"]
+					}
+				}
+			},
+
+			"Coimbra": {
+				"concelhos": {
+					"Coimbra": {
+						"cidades": ["Coimbra"],
+						"freguesias": [
+							"Almalaguês",
+							"Assafarge",
+							"Azoia",
+							"Bencanta",
+							"Ceira",
+							"Cernache do Bonjardim",
+							"Eiras",
+							"Figueira",
+							"Gândaras",
+							"Granja do Ulmeiro",
+							"Lousã",
+							"S. Martinho do Bispo",
+							"Santa Clara",
+							"São Silvestre"
+						]
+					},
+					"Cantanhede": {
+						"cidades": ["Cantanhede"],
+						"freguesias": ["Cantanhede", "Ançã", "Soure", "Louriçal", "Porto de Mós"]
+					},
+					"Figueira da Foz": {
+						"cidades": ["Figueira da Foz"],
+						"freguesias": ["Figueira da Foz", "Buarcos", "Mata", "Maias", "São Pedro"]
+					},
+					"Lousã": {
+						"cidades": ["Lousã"],
+						"freguesias": ["Lousã", "Alvorge", "Casal de Ermio", "Góis", "S. José"]
+					},
+					"Miranda do Corvo": {
+						"cidades": ["Miranda do Corvo"],
+						"freguesias": ["Miranda do Corvo", "Alvorge", "Fornos", "Souto da Casa", "S. João de Alporão"]
+					},
+					"Montemor-o-Velho": {
+						"cidades": ["Montemor-o-Velho"],
+						"freguesias": ["Montemor-o-Velho", "Buarcos", "Soure", "Louriçal", "Souto da Casa"]
+					},
+					"Penela": {
+						"cidades": ["Penela"],
+						"freguesias": ["Penela", "Alvaiázere", "Soure", "Pedrógão Grande"]
+					},
+					"Pombal": {
+						"cidades": ["Pombal"],
+						"freguesias": ["Pombal", "Albergaria dos Fusos", "Soure", "S. João de Alporão"]
+					},
+					"Vila Nova de Poiares": {
+						"cidades": ["Vila Nova de Poiares"],
+						"freguesias": ["Vila Nova de Poiares", "Soure", "S. João de Alporão"]
+					}
+				}
+			},
+
+			"Évora": {
+				"concelhos": {
+					"Évora": {
+						"cidades": ["Évora"],
+						"freguesias": ["Almendres", "Almonda", "Alvito", "Évora (São Mamede, Sé, São Pedro e Santo Antão)", "Canaviais", "São Manços", "São Sebastião"]
+					},
+					"Arraiolos": {
+						"cidades": ["Arraiolos"],
+						"freguesias": ["Arraiolos", "São Gregório", "São Pedro", "Cerro da Águia", "Santiago do Escoural"]
+					},
+					"Borba": {
+						"cidades": ["Borba"],
+						"freguesias": ["Borba", "Ribeira do Alentejo", "Vila Viçosa"]
+					},
+					"Moura": {
+						"cidades": ["Moura"],
+						"freguesias": ["Moura", "Amareleja", "Póvoa de São Miguel", "São João da Ribeira", "São Sebastião"]
+					},
+					"Reguengos de Monsaraz": {
+						"cidades": ["Reguengos de Monsaraz"],
+						"freguesias": ["Reguengos de Monsaraz", "Monsaraz", "Santo Amaro", "São Lourenço"]
+					},
+					"Vendas Novas": {
+						"cidades": ["Vendas Novas"],
+						"freguesias": ["Vendas Novas", "Canha", "Santo Isidro"]
+					},
+					"Alvito": {
+						"cidades": ["Alvito"],
+						"freguesias": ["Alvito", "Selmes"]
+					}
+				}
+			},
+
+			"Faro": {
+				"concelhos": {
+					"Albufeira": {
+						"cidades": ["Albufeira"],
+						"freguesias": ["Albufeira", "Ferreiras", "Paderne", "Olhos de Água", "Albufeira e Olhos de Água"]
+					},
+					"Alcoutim": {
+						"cidades": ["Alcoutim"],
+						"freguesias": ["Alcoutim", "Cacela", "Odeleite", "Vila Real de Santo António"]
+					},
+					"Castro Marim": {
+						"cidades": ["Castro Marim"],
+						"freguesias": ["Castro Marim", "Azinhal", "Odeleite", "Vila Real de Santo António"]
+					},
+					"Faro": {
+						"cidades": ["Faro"],
+						"freguesias": ["Faro", "São Pedro", "Sé", "Conceição", "Santa Bárbara de Nexe", "Estoi", "São Brás de Alportel"]
+					},
+					"Loulé": {
+						"cidades": ["Loulé"],
+						"freguesias": ["Loulé", "Almancil", "Quarteira", "São Sebastião", "Boliqueime", "Alte", "Salgados", "Vila Sol"]
+					},
+					"Monchique": {
+						"cidades": ["Monchique"],
+						"freguesias": ["Monchique", "Alferce", "Marmelete"]
+					},
+					"Olhão": {
+						"cidades": ["Olhão"],
+						"freguesias": ["Olhão", "Peixe", "Fuseta", "Moncarapacho"]
+					},
+					"Portimão": {
+						"cidades": ["Portimão"],
+						"freguesias": ["Portimão", "Alvor", "Mexilhoeira Grande"]
+					},
+					"Tavira": {
+						"cidades": ["Tavira"],
+						"freguesias": ["Tavira", "Santa Luzia", "Conceição", "Cacela"]
+					},
+					"Vila do Bispo": {
+						"cidades": ["Vila do Bispo"],
+						"freguesias": ["Vila do Bispo", "Raposeira", "Sagres"]
+					},
+					"Vila Real de Santo António": {
+						"cidades": ["Vila Real de Santo António"],
+						"freguesias": ["Vila Real de Santo António", "Altura", "Odeleite"]
+					}
+				}
+			},
+
+			"Guarda": {
+				"concelhos": {
+					"Almeida": {
+						"cidades": ["Almeida"],
+						"freguesias": [
+							"Almeida",
+							"Aldeia do Bispo",
+							"Aldeia Viçosa",
+							"Benquerença",
+							"Castelo Mendo",
+							"Cidadelhe",
+							"Figueira de Castelo Rodrigo",
+							"Freixeda do Torrão",
+							"Maceira",
+							"Rabaçal",
+							"Vale de Maceira"
+						]
+					},
+					"Figueira de Castelo Rodrigo": {
+						"cidades": ["Figueira de Castelo Rodrigo"],
+						"freguesias": [
+							"Aldeia do Bispo",
+							"Aldeia Viçosa",
+							"Benquerença",
+							"Castelo Mendo",
+							"Cidadelhe",
+							"Figueira de Castelo Rodrigo",
+							"Freixeda do Torrão",
+							"Maceira",
+							"Rabaçal",
+							"Vale de Maceira"
+						]
+					},
+					"Guarda": {
+						"cidades": ["Guarda"],
+						"freguesias": [
+							"Aldeia de Joanes",
+							"Alto da Serra",
+							"Arrifana",
+							"Barrocal",
+							"Bairro",
+							"Biscoitos",
+							"Cova da Loba",
+							"Figueira de Castelo Rodrigo",
+							"Foz do Côa",
+							"Freixeda do Torrão",
+							"Largo da Feira",
+							"Maceira",
+							"Outeiro de São João"
+						]
+					},
+					"Pinhel": {
+						"cidades": ["Pinhel"],
+						"freguesias": ["Pinhel", "Aldeia do Bispo", "Alto da Serra", "Benquerença", "Cidadelhe", "Freixeda do Torrão", "Maceira", "Rabaçal"]
+					},
+					"Sabugal": {
+						"cidades": ["Sabugal"],
+						"freguesias": ["Aldeia Viçosa", "Benquerença", "Castelo Mendo", "Freixeda do Torrão", "Maceira", "Rabaçal"]
+					},
+					"Seia": {
+						"cidades": ["Seia"],
+						"freguesias": ["Alto da Serra", "Aldeia de Joanes", "Bairro", "Barrocal", "Cova da Loba", "Figueira de Castelo Rodrigo", "Maceira", "Outeiro de São João"]
+					},
+					"Vila Nova de Foz Côa": {
+						"cidades": ["Vila Nova de Foz Côa"],
+						"freguesias": ["Vila Nova de Foz Côa", "Aldeia do Bispo", "Alto da Serra", "Benquerença", "Cidadelhe", "Freixeda do Torrão", "Maceira", "Rabaçal"]
+					}
+				}
+			},
+
+			"Leiria": {
+				"concelhos": {
+					"Alcobaça": {
+						"cidades": ["Alcobaça"],
+						"freguesias": ["Alcobaça", "Areeiro", "Barreira", "Batalha", "Cova da Iria", "Cova do Lobo", "Figueira", "Foz do Arelho", "Leiria", "Marinha Grande"]
+					},
+					"Batalha": {
+						"cidades": ["Batalha"],
+						"freguesias": ["Batalha", "Aljubarrota", "Fátima", "São Mamede", "São Jorge", "São Vicente"]
+					},
+					"Leiria": {
+						"cidades": ["Leiria"],
+						"freguesias": ["Alcobaça", "Batalha", "Cova do Lobo", "Figueira", "Leiria", "Marinha Grande"]
+					},
+					"Marinha Grande": {
+						"cidades": ["Marinha Grande"],
+						"freguesias": ["Marinha Grande", "Alcobaça", "Barreira", "Fátima", "São Jorge", "São Vicente"]
+					},
+					"Óbidos": {
+						"cidades": ["Óbidos"],
+						"freguesias": ["Óbidos", "Aljubarrota", "Alcobaça", "Batalha", "São Vicente"]
+					},
+					"Pombal": {
+						"cidades": ["Pombal"],
+						"freguesias": ["Pombal", "São João do Campo", "São Vicente", "São Mamede", "São Jorge"]
+					}
+				}
+			},
+
+			"Lisboa": {
+				"concelhos": {
+					"Alenquer": {
+						"cidades": ["Alenquer"],
+						"freguesias": [
+							"Abrigada e Cabanas de Torres",
+							"Aldeia Galega da Merceana e Aldeia Gavinha",
+							"Alenquer (Santo Estêvão e Triana)",
+							"Carregado e Cadafais",
+							"Carnota",
+							"Meca",
+							"Olhalvo",
+							"Ota",
+							"Ribafria e Pereiro de Palhacana",
+							"Ventosa"
+						]
+					},
+					"Amadora": {
+						"cidades": ["Amadora"],
+						"freguesias": ["Águas Livres", "Alfragide", "Encosta do Sol", "Falagueira-Venda Nova", "Mina de Água", "Venteira"]
+					},
+					"Arruda dos Vinhos": {
+						"cidades": ["Arruda dos Vinhos"],
+						"freguesias": ["Arranhó", "Arruda dos Vinhos", "Cardosas", "Santiago dos Velhos"]
+					},
+					"Azambuja": {
+						"cidades": ["Azambuja"],
+						"freguesias": ["Alcoentre", "Aveiras de Baixo", "Aveiras de Cima", "Azambuja", "Maçussa", "Manique do Intendente", "Vale do Paraíso", "Vila Nova da Rainha"]
+					},
+					"Cadaval": {
+						"cidades": ["Cadaval"],
+						"freguesias": ["Alguber", "Cadaval e Pêro Moniz", "Lamas e Cercal", "Painho e Figueiros", "Peral", "Vermelha", "Vilar"]
+					},
+					"Cascais": {
+						"cidades": ["Cascais", "Estoril"],
+						"freguesias": ["Alcabideche", "Carcavelos e Parede", "Cascais e Estoril", "São Domingos de Rana"]
+					},
+					"Lisboa": {
+						"cidades": ["Lisboa"],
+						"freguesias": [
+							"Ajuda",
+							"Alcântara",
+							"Alvalade",
+							"Areeiro",
+							"Arroios",
+							"Avenidas Novas",
+							"Beato",
+							"Belém",
+							"Benfica",
+							"Campo de Ourique",
+							"Campolide",
+							"Carnide",
+							"Estrela",
+							"Lumiar",
+							"Marvila",
+							"Misericórdia",
+							"Olivais",
+							"Parque das Nações",
+							"Penha de França",
+							"Santa Clara",
+							"Santa Maria Maior",
+							"Santo António",
+							"São Domingos de Benfica",
+							"São Vicente"
+						]
+					},
+					"Loures": {
+						"cidades": ["Loures", "Sacavém"],
+						"freguesias": [
+							"Bucelas",
+							"Camarate, Unhos e Apelação",
+							"Fanhões",
+							"Loures",
+							"Lousa",
+							"Moscavide e Portela",
+							"Sacavém e Prior Velho",
+							"Santa Iria de Azóia, São João da Talha e Bobadela",
+							"Santo Antão e São Julião do Tojal"
+						]
+					},
+					"Lourinhã": {
+						"cidades": ["Lourinhã"],
+						"freguesias": ["Lourinhã e Atalaia", "Miragaia e Marteleira", "Moita dos Ferreiros", "Reguengo Grande", "Ribamar", "Santa Bárbara", "São Bartolomeu dos Galegos e Moledo", "Vimeiro"]
+					},
+					"Mafra": {
+						"cidades": ["Mafra"],
+						"freguesias": [
+							"Azueira e Sobral da Abelheira",
+							"Carvoeira",
+							"Encarnação",
+							"Enxara do Bispo, Gradil e Vila Franca do Rosário",
+							"Ericeira",
+							"Igreja Nova e Cheleiros",
+							"Mafra",
+							"Malveira e São Miguel de Alcainça",
+							"Milharado",
+							"Santo Estêvão das Galés",
+							"Venda do Pinheiro e Santo Estêvão das Galés"
+						]
+					},
+					"Odivelas": {
+						"cidades": ["Odivelas"],
+						"freguesias": ["Odivelas", "Pontinha e Famões", "Póvoa de Santo Adrião e Olival Basto", "Ramada e Caneças"]
+					},
+					"Oeiras": {
+						"cidades": ["Oeiras"],
+						"freguesias": ["Algés, Linda-a-Velha e Cruz Quebrada-Dafundo", "Barcarena", "Carnaxide e Queijas", "Oeiras e São Julião da Barra, Paço de Arcos e Caxias", "Porto Salvo"]
+					},
+					"Sintra": {
+						"cidades": ["Sintra"],
+						"freguesias": [
+							"Agualva e Mira-Sintra",
+							"Algueirão-Mem Martins",
+							"Cacém e São Marcos",
+							"Colares",
+							"Massamá e Monte Abraão",
+							"Queluz e Belas",
+							"Rio de Mouro",
+							"Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
+							"São João das Lampas e Terrugem"
+						]
+					},
+					"Sobral de Monte Agraço": {
+						"cidades": ["Sobral de Monte Agraço"],
+						"freguesias": ["Santo Quintino", "Sapataria", "Sobral de Monte Agraço"]
+					},
+					"Torres Vedras": {
+						"cidades": ["Torres Vedras"],
+						"freguesias": [
+							"A dos Cunhados e Maceira",
+							"Campelos e Outeiro da Cabeça",
+							"Carvoeira e Carmões",
+							"Dois Portos e Runa",
+							"Freiria",
+							"Maxial e Monte Redondo",
+							"Ponte do Rol",
+							"Ramalhal",
+							"Santa Maria, São Pedro e Matacães",
+							"São Pedro da Cadeira",
+							"Silveira",
+							"Torres Vedras",
+							"Turcifal",
+							"Ventosa"
+						]
+					},
+					"Vila Franca de Xira": {
+						"cidades": ["Vila Franca de Xira", "Alverca do Ribatejo", "Póvoa de Santa Iria"],
+						"freguesias": [
+							"Alhandra, São João dos Montes e Calhandriz",
+							"Alverca do Ribatejo e Sobralinho",
+							"Castanheira do Ribatejo e Cachoeiras",
+							"Póvoa de Santa Iria e Forte da Casa",
+							"Vialonga",
+							"Vila Franca de Xira"
+						]
+					}
+				}
+			},
+
+			"Portalegre": {
+				"concelhos": {
+					"Alter do Chão": {
+						"cidades": ["Alter do Chão"],
+						"freguesias": ["Alter do Chão", "Chão de Couce", "Fazendas de Almeirim", "São João de Deus"]
+					},
+					"Arronches": {
+						"cidades": ["Arronches"],
+						"freguesias": ["Arronches", "Assunção", "Benavila", "Esperança", "Monforte", "Vale de Cavalos"]
+					},
+					"Avis": {
+						"cidades": ["Avis"],
+						"freguesias": ["Avis", "Benavila", "Figueira e Barro", "Santiago de Cacém"]
+					},
+					"Crato": {
+						"cidades": ["Crato"],
+						"freguesias": ["Crato", "Flor da Rosa", "Gáfete", "Montalvão", "Nisa"]
+					},
+					"Elvas": {
+						"cidades": ["Elvas"],
+						"freguesias": ["Alcarra", "Alqueidão", "Bairro de São José", "Barbacena", "Corta-Mato", "Santa Eulália"]
+					},
+					"Fronteira": {
+						"cidades": ["Fronteira"],
+						"freguesias": ["Fronteira", "Cabeço de Gato", "Elvas", "São João da Serra"]
+					},
+					"Gavião": {
+						"cidades": ["Gavião"],
+						"freguesias": ["Gavião", "Vale de Juncal", "Valongo"]
+					},
+					"Marvão": {
+						"cidades": ["Marvão"],
+						"freguesias": ["Marvão", "Santo António das Areias"]
+					},
+					"Monforte": {
+						"cidades": ["Monforte"],
+						"freguesias": ["Monforte", "Alto de São João", "Fazendas de Almeirim"]
+					},
+					"Portalegre": {
+						"cidades": ["Portalegre"],
+						"freguesias": ["Portalegre", "Alagoa", "Alto da Cova", "Portalegre do Norte"]
+					},
+					"Sousel": {
+						"cidades": ["Sousel"],
+						"freguesias": ["Sousel", "São Sebastião", "São João de Deus"]
+					}
+				}
+			},
+
+			"Porto": {
+				"concelhos": {
+					"Amarante": {
+						"cidades": ["Amarante"],
+						"freguesias": ["Amarante", "Basto", "Cavêdo", "Carrazedo de Montenegro", "Fridão", "Gondar", "Junqueira", "Marmeleiro", "Meda", "Olo", "Ponte", "S. Gonçalo", "São Pedro do Sul"]
+					},
+					"Baiao": {
+						"cidades": ["Baiao"],
+						"freguesias": ["Baiao", "Cinfães", "Loivos do Monte", "Santa Leocádia"]
+					},
+					"Barcelos": {
+						"cidades": ["Barcelos"],
+						"freguesias": [
+							"Barcelos",
+							"Abade de Neiva",
+							"Alvito",
+							"Areias de Vilar",
+							"Brito",
+							"Carreira",
+							"Castro",
+							"Chorente",
+							"Gavião",
+							"Gondar",
+							"Guilhabreu",
+							"Lousada",
+							"Mó",
+							"Outeiro",
+							"Pousada de Saramagos",
+							"Roriz",
+							"Souto",
+							"Vilar de Figos"
+						]
+					},
+					"Brito": {
+						"cidades": ["Brito"],
+						"freguesias": ["Brito", "Carreira", "Gavião", "Mó", "Outeiro"]
+					},
+					"Espinho": {
+						"cidades": ["Espinho"],
+						"freguesias": ["Anta e Guetim", "Espinho", "Paramos", "Silvalde"]
+					},
+					"Gondomar": {
+						"cidades": ["Gondomar"],
+						"freguesias": ["Gondomar", "Baguim do Monte", "Fânzeres", "Lomba", "Santo Ovídio", "São Cosme", "São Pedro da Cova", "Valbom"]
+					},
+					"Lousada": {
+						"cidades": ["Lousada"],
+						"freguesias": ["Lousada", "Castro", "Couto", "Figueira", "Fragosela", "Fresneira", "Macedo", "Marte", "Rebordosa"]
+					},
+					"Maia": {
+						"cidades": ["Maia"],
+						"freguesias": ["Águas Santas", "Barrosas", "Castêlo da Maia", "Fânzeres", "Gondomar", "Lousada", "Pedroso"]
+					},
+					"Matosinhos": {
+						"cidades": ["Matosinhos"],
+						"freguesias": ["Aldoar", "Custoias", "Matosinhos", "Matosinhos Sul", "Pedroso"]
+					},
+					"Paredes": {
+						"cidades": ["Paredes"],
+						"freguesias": ["Câmara de Lobos", "Gondomar", "Lousada", "Paredes", "São Pedro de Meia"]
+					}
+				}
+			},
+
+			"Santarém": {
+				"concelhos": {
+					"Alcanena": {
+						"cidades": ["Alcanena"],
+						"freguesias": ["Alcanena", "Bugalhos", "Couto de Cima", "Couto de Baixo", "Moita do Norte", "Olhos de Água"]
+					},
+					"Abrantes": {
+						"cidades": ["Abrantes"],
+						"freguesias": ["Abrantes", "Alvega", "Carvalhal", "Mação", "Ponte de Sor", "Rio de Moinhos", "São Vicente de Águas"]
+					},
+					"Benavente": {
+						"cidades": ["Benavente"],
+						"freguesias": ["Benavente", "Samora Correia", "Santarém"]
+					},
+					"Cartaxo": {
+						"cidades": ["Cartaxo"],
+						"freguesias": ["Cartaxo", "Valada", "Areeiro", "Casal do Sapo"]
+					},
+					"Chamusca": {
+						"cidades": ["Chamusca"],
+						"freguesias": ["Chamusca", "Chouto", "Fazendas de Almeirim", "Póvoa de Santarém"]
+					},
+					"Constância": {
+						"cidades": ["Constância"],
+						"freguesias": ["Constância", "Montalvo", "Santa Margarida da Coutada"]
+					},
+					"Coruche": {
+						"cidades": ["Coruche"],
+						"freguesias": ["Coruche", "Alcarra", "São João da Ribeira"]
+					},
+					"Golegã": {
+						"cidades": ["Golegã"],
+						"freguesias": ["Golegã", "Riachos"]
+					},
+					"Mação": {
+						"cidades": ["Mação"],
+						"freguesias": ["Mação", "Alvega", "Carvalhal", "Figueiró"]
+					},
+					"Santarém": {
+						"cidades": ["Santarém"],
+						"freguesias": ["Santarém", "Marvila", "Almeirim", "São Vicente de Águas"]
+					}
+				}
+			},
+
+			"Setúbal": {
+				"concelhos": {
+					"Alcáçova": {
+						"cidades": ["Alcáçova"],
+						"freguesias": ["Alcáçova", "Vila Nova de São Pedro", "Santiago"]
+					},
+					"Almada": {
+						"cidades": ["Almada"],
+						"freguesias": ["Almada", "Cova da Piedade", "Laranjeiro", "Pragal", "Feijó", "Caparica"]
+					},
+					"Barreiro": {
+						"cidades": ["Barreiro"],
+						"freguesias": ["Barreiro", "Alto do Seixalinho", "Lavradio", "Palhais", "Santo André"]
+					},
+					"Sesimbra": {
+						"cidades": ["Sesimbra"],
+						"freguesias": ["Sesimbra", "Castelo", "Aldeia do Meco"]
+					},
+					"Setúbal": {
+						"cidades": ["Setúbal"],
+						"freguesias": ["Setúbal", "Azeitão", "Santo Amaro"]
+					},
+					"Palmela": {
+						"cidades": ["Palmela"],
+						"freguesias": ["Palmela", "Pinhal Novo"]
+					}
+				}
+			},
+
+			"Viana do Castelo": {
+				"concelhos": {
+					"Arcos de Valdevez": {
+						"cidades": ["Arcos de Valdevez"],
+						"freguesias": ["Arcos de Valdevez", "Benfeita", "Cendufe", "Chafé", "Gandra", "Gave", "Sabroso"]
+					},
+					"Caminha": {
+						"cidades": ["Caminha"],
+						"freguesias": ["Caminha", "Âncora", "Azenha", "Vila Praia de Âncora", "Seixas"]
+					},
+					"Melgaço": {
+						"cidades": ["Melgaço"],
+						"freguesias": ["Melgaço", "Castro Laboreiro", "Ponte da Barca", "Vila Nova de Cerveira"]
+					},
+					"Monção": {
+						"cidades": ["Monção"],
+						"freguesias": ["Monção", "Mogadouro", "São Pedro de Rates", "São Sebastião"]
+					},
+					"Ponte de Lima": {
+						"cidades": ["Ponte de Lima"],
+						"freguesias": ["Ponte de Lima", "Arcozelo", "São Vicente", "Vilar de Mouros"]
+					},
+					"Ponte da Barca": {
+						"cidades": ["Ponte da Barca"],
+						"freguesias": ["Ponte da Barca", "Vila Nova de Famalicão", "Vilar de Mouros"]
+					},
+					"Viana do Castelo": {
+						"cidades": ["Viana do Castelo"],
+						"freguesias": ["Viana do Castelo", "Santa Marta de Portuzelo", "Darque", "Areosa", "Chafé", "Santa Maria Maior", "São Vicente"]
+					}
+				}
+			},
+
+			"Vila Real": {
+				"concelhos": {
+					"Alijó": {
+						"cidades": ["Alijó"],
+						"freguesias": ["Alijó", "Castelo de Avês", "Couto de Dornelas", "Sanhoane", "Vila Real"]
+					},
+					"Boticas": {
+						"cidades": ["Boticas"],
+						"freguesias": ["Boticas", "Beça", "Covas do Barroso", "Granja", "S. João de Outeiro"]
+					},
+					"Chaves": {
+						"cidades": ["Chaves"],
+						"freguesias": ["Chaves", "Santa Maria Maior", "São Pedro", "Tregosa", "Vila Pouca de Aguiar"]
+					},
+					"Mesão Frio": {
+						"cidades": ["Mesão Frio"],
+						"freguesias": ["Mesão Frio", "Barrosas", "Gondar", "S. João de Cima"]
+					},
+					"Peso da Régua": {
+						"cidades": ["Peso da Régua"],
+						"freguesias": ["Peso da Régua", "S. João da Pesqueira", "Vila Real"]
+					},
+					"Régua": {
+						"cidades": ["Régua"],
+						"freguesias": ["Régua", "S. João de Lobrigos"]
+					},
+					"Vila Real": {
+						"cidades": ["Vila Real"],
+						"freguesias": ["Vila Real", "S. Pedro de Cerva", "Parada de Cunhos"]
+					}
+				}
+			},
+
+			"Viseu": {
+				"concelhos": {
+					"Aguiar da Beira": {
+						"cidades": ["Aguiar da Beira"],
+						"freguesias": ["Aguiar da Beira", "Baltar", "Carvalhal de Vermilhas", "Couto do Mosteiro", "Vermilhas"]
+					},
+					"Armamar": {
+						"cidades": ["Armamar"],
+						"freguesias": ["Armamar", "Azenha", "Belo", "Figueiredo", "Lameiras", "São João de Tarouca"]
+					},
+					"Cinfães": {
+						"cidades": ["Cinfães"],
+						"freguesias": ["Cinfães", "Alvarenga", "Couto de Cima", "Ferreira", "Ribeiradio"]
+					},
+					"Lamego": {
+						"cidades": ["Lamego"],
+						"freguesias": ["Lamego", "Almacave e Sé", "Meijinhos", "Penude", "S. João de Tarouca"]
+					},
+					"Mangualde": {
+						"cidades": ["Mangualde"],
+						"freguesias": ["Mangualde", "Couto da Várzea", "Lapa do Lobo", "Meda"]
+					},
+					"Moimenta da Beira": {
+						"cidades": ["Moimenta da Beira"],
+						"freguesias": ["Moimenta da Beira", "Alcafache", "Barrocas", "Casal de Loivos"]
+					},
+					"Nelas": {
+						"cidades": ["Nelas"],
+						"freguesias": ["Nelas", "Canas de Senhorim", "Vila Nova de Tazem"]
+					},
+					"Oliveira de Frades": {
+						"cidades": ["Oliveira de Frades"],
+						"freguesias": ["Oliveira de Frades", "Alvarenga", "Ribeira de Fráguas"]
+					},
+					"Sátão": {
+						"cidades": ["Sátão"],
+						"freguesias": ["Sátão", "Lobão da Beira", "Santa Comba Dão"]
+					},
+					"São Pedro do Sul": {
+						"cidades": ["São Pedro do Sul"],
+						"freguesias": ["São Pedro do Sul", "Vila Maior"]
+					},
+					"Viseu": {
+						"cidades": ["Viseu"],
+						"freguesias": ["Viseu", "Almeida", "Barrô", "Figueiredo", "Granja"]
+					}
+				}
+			}
+		}
+	}
+}
