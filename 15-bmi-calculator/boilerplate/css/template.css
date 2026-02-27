@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lekton:wght@400;700&family=Noto+Sans:wght@200;300;400;500&display=swap');
+
+/* reset basics */
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* Prevent font size inflation */
+html {
+	-moz-text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+}
+
+body {
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	min-height: 100vh;
+	margin: 0;
+}
+
+main {
+	width: 100%;
+	flex-grow: 1; /* important for main ocupy the remain space */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	font-size: 0.875rem;
+	list-style: none;
+	text-align: left;
+	line-height: 2;
+	display: flex;
+	gap: 1.5rem;
+	align-items: center;
+	justify-content: center;
+}
+
+li {
+	border-right: 1px solid white;
+	padding-right: 1rem;
+}
+
+img {
+	display: block;
+}
+
+.container {
+	max-width: 1250px;
+	margin: 0 auto;
+	padding: 0 2rem;
+}
+
+.header__wrapper {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header__wrapper img {
+	width: 75px;
+}
+
+header,
+footer {
+	width: 100%;
+	text-align: center;
+	padding: 1rem 0;
+	background-image: linear-gradient(to left, #3f51b1 0%, #5a55ae 5%, #7b5fac 10%, #8f6aae 15%, #a86aa4 20%, #cc6b8e 30%, #f18271 40%, #f3a469 50%, #f7c978 100%);
+	color: aliceblue;
+	font-family: 'Lekton', sans-serif;
+}

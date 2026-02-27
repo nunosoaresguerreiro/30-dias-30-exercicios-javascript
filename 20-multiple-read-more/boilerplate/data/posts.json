@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"title": "Post Title 01",
+		"text": "Carregar conteúdo com JSON mantém o HTML limpo e organizado. A separação entre dados e apresentação facilita a manutenção, permitindo atualizações rápidas sem alterar a estrutura. Isso reduz erros e melhora a eficiência. Com menos poluição no código, o desenvolvimento torna-se mais ágil, claro e escalável. Além disso, aumenta a legibilidade e torna o projeto mais modular, promovendo boas práticas de programação."
+	},
+	{
+		"id": 2,
+		"title": "Post Title 02",
+		"text": "Ao usar JSON para dados dinâmicos, o site fica escalável e flexível. Novos conteúdos são adicionados facilmente, editando apenas o arquivo JSON. Isso elimina a necessidade de alterar o HTML diretamente, o que diminui erros. Manter o conteúdo separado da estrutura melhora a clareza do código e possibilita reutilização eficiente. A flexibilidade facilita futuras integrações com APIs externas."
+	},
+	{
+		"id": 3,
+		"title": "Post Title 03",
+		"text": "A abordagem de fetch com JSON permite consumir dados de APIs externas de forma prática. Isso torna o site dinâmico e atualizado em tempo real. Além disso, mantém o HTML mais leve, focando apenas na estrutura. Essa técnica melhora o desempenho e facilita a manutenção. Com a lógica de dados separada, fica mais simples adaptar o design sem mexer no conteúdo, promovendo uma experiência ágil."
+	}
+]
